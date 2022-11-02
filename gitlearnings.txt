@@ -31,3 +31,7 @@ Git commands 101
             - compares the changes between the working directory and staging area
             - git diff -staged : show the diff between the repository and the staged area
 
+8. git reset --soft HEAD~1: remove the last commit  
+    - diff between --oneline and -p 
+    - git commit --ammend : change the commit message
+    
