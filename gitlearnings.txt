@@ -18,3 +18,6 @@ Git commands 101
 --> git config --global user.email '' 
 
 6. git log(history) - displays the different changes that have been made with a hash message - known as a SHA1 hash
+                    - variations
+                    - git log --oneline - displays first 7 charachters
+                    - git log -p : displays the log in a more detailed manner
