@@ -3,6 +3,11 @@ Git commands 101
 
 1. git init - initialises : - tells the git to start tracking from here
 
+-- There are 3 regions:
+    - working directory - where the changes are being made 
+    - staging area - similar to a draft
+    - repository - contains the completed file with changes
+
 2. git status - checks the current status
 
 3. make some changes 
@@ -21,3 +26,8 @@ Git commands 101
                     - variations
                     - git log --oneline - displays first 7 charachters
                     - git log -p : displays the log in a more detailed manner
+
+7. git diff - shows the new additions made and the diff from the previous staging area
+            - compares the changes between the working directory and staging area
+            - git diff -staged : show the diff between the repository and the staged area
+
