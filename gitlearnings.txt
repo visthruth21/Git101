@@ -1,0 +1,15 @@
+
+Git commands 101
+
+1. git init - initialises : - tells the git to start tracking from here
+
+2. git status - checks the current status
+
+3. make some changes 
+
+4. git add - moves the changes from the working directory to the staging directory
+
+5. git commit -m ""  - moves the changes from the staging area to the repository 
+
+--> git config user.name ''
+--> git cofig  user.email ''  
