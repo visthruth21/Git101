@@ -13,3 +13,6 @@ Git commands 101
 
 --> git config user.name ''
 --> git cofig  user.email ''  
+
+--> git config --global user.name '' 
+--> git config --global user.email '' 
