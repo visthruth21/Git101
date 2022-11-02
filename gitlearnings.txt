@@ -16,3 +16,5 @@ Git commands 101
 
 --> git config --global user.name '' 
 --> git config --global user.email '' 
+
+6. git log(history) - displays the different changes that have been made with a hash message - known as a SHA1 hash
